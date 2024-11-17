@@ -11,6 +11,3 @@ provider "google" {
   project = "project-mikolo"
   credentials = file("project-mikolo-92586517fb2e.json")
 }
-
-
-
